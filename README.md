@@ -2,7 +2,7 @@
 Plus and KAS Projects 
 A place for Plus and Key Accounts Support Projects 
 
-##Plus Support 
+# Plus Support 
 Who are we? ➕
 Plus Support (Team) creates the best-in-class service experience for our Plus Merchants. We are committed to consistently challenging assumptions and pushing the boundaries of Shopify (and industry) standards of enterprise support, and are striving to be the industry example of exceptional high touch, high care experiences.
 
